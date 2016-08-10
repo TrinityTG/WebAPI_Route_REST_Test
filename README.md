@@ -15,4 +15,14 @@ Typically, Unit Tests will test method signatures, functionality, return types, 
 Although REST service URIs should never change, it can happen.  New development, maintenance, or refactoring could cause a URI to change and you need to be aware when this happens.  Also, if you are trying to POST to a PUT endpoint, this could cause issues.  Route Tests mitigate these problems, and they are simple to write.
 
 ##Solution
-Please see code
+Please download code from this GitHub repository and load “Inventory.WebAPI.sln” in Visual Studio.
+
+## Conclusion
+Visual Studio has come a long way and has evolved tremendously over the years. The web platforms and frameworks have continually been changing and will continue to change and evolve. Sometimes it is frustrating for organizations and developers to constantly change and new platforms and frameworks. A pattern that has helped many development teams become successful in maintaining a solid testing framework has been to keep a testing architecture which is simple and easy to maintain. We hope this blog has provided you with a simple-to-implement Web API testing framework. We have provided a copy of this solution on GitHub <LINK to GitHub>.
+
+Best Regards,
+
+Steve Yerkes, Arman Gharib
+https://www.linkedin.com/in/syerkes?trk=prof-samename-name
+https://www.linkedin.com/in/arman-gharib-b10a0515
+
