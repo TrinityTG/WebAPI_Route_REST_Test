@@ -23,6 +23,7 @@ Visual Studio has come a long way and has evolved tremendously over the years. T
 Best Regards,
 
 Steve Yerkes, Arman Gharib
-https://www.linkedin.com/in/syerkes?trk=prof-samename-name
-https://www.linkedin.com/in/arman-gharib-b10a0515
+
+Steve: https://www.linkedin.com/in/syerkes?trk=prof-samename-name
+Arman: https://www.linkedin.com/in/arman-gharib-b10a0515
 
